@@ -1,5 +1,4 @@
 I have worked on the following tasks during the internship
-
 1. Interface with a stock price data feed Click here to see Task-1
 Interface with a stock price data feed and set your system for analysis of data
 Finalcial Data
@@ -26,4 +25,9 @@ Contrubuting to the Open Source Community
 
 
 My Certificate of Completion
+
+
+
+
+
 ![1659959888716](https://github.com/saishriya4/JPMorgan-Chase-Software-Engineering-Virtual-Internship/assets/112546603/e223269c-d6cf-4baa-ab61-573d5d35421f)
